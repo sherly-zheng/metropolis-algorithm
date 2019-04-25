@@ -1,1 +1,1 @@
-# metropolis-algorithm
+# Metropolis Algorithm
